@@ -34,8 +34,6 @@ Conditions: ONE (Sea Level)
 
 Fault Modes: ONE (HPC Degradation)
 
-# Alternatively the dataset can be downloaded from https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
-
 Data Set: FD002
 
 Train trjectories: 260
@@ -65,3 +63,5 @@ Test trajectories: 249
 Conditions: SIX
 
 Fault Modes: TWO (HPC Degradation, Fan Degradation)
+
+#### Alternatively the dataset can be downloaded from https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
