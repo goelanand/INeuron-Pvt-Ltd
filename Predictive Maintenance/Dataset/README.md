@@ -21,7 +21,9 @@ Each row is a snapshot of data taken during a single operational cycle, each col
 
 26) sensor measurement 26
 
-Data Set Organization
+
+## Data Set Organization
+
 Data Set: FD001
 
 Train trjectories: 100
